@@ -1,0 +1,3 @@
+class Config:
+    SECRET_KEY = '42e4656d56271b374f8b8ac175df3fc91e230dae161da5111ec6a485baa7',
+    SECURITY_PASSWORD_SALT = '93fd6c3b5f30d9f29db6de3288a5a5'
